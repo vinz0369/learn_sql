@@ -78,11 +78,11 @@ values
 
 insert into Student(StudentId, StudentName, BirthDate, ClassId)
 values
-(1, 'Pham Tuan Anh', '1993-08-05', 1),
-(2, 'Phan Van Huy', '1992-06-10', 1),
-(3, 'Nguyen Hoang Minh', '1992-08-05', 2),
-(4, 'Tran Tuan Tu', '1993-10-10', 2),
-(5, 'Do Anh Tai', '1992-06-06', 3)
+(1, 'Pham Tuan Anh', '2003-08-05', 1),
+(2, 'Phan Van Huy', '2003-06-10', 1),
+(3, 'Nguyen Hoang Minh', '2003-08-05', 2),
+(4, 'Tran Tuan Tu', '2003-10-10', 2),
+(5, 'Do Anh Tai', '2003-06-06', 3)
 
 insert into Subject (SubjectId, SubjectName, SessionCount)
 values
